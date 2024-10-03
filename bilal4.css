@@ -1,0 +1,39 @@
+
+    .one
+    {background-color: rgb(248, 0, 0);
+    color: azure;
+    height: 20px;
+    width: 100px;
+    border-radius: 50px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+border: none;
+font-weight: 700;
+margin-left: 30px; 
+}
+.two{
+    background-color: rgb(255, 0, 0);
+    color: azure;
+    height: 20px;
+    width: 60px;
+    border-radius: 30px;
+    border: none;
+    margin-left: 30px;
+
+    }
+    .three{
+        background-color: rgb(255, 8, 0);
+        color: rgb(250, 242, 242);
+        height: 20px;
+        width: 60px;
+        border-radius: 30px;
+        border: none;
+        margin-left: 30px;
+
+    }
+    p{
+        margin-left: 150px;
+        font-weight: bolder;
+    } 
+    body{
+        background-color: rgb(251, 255, 6);
+    } 

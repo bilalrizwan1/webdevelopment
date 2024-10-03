@@ -1,0 +1,32 @@
+.one:hover{
+    background-color: rgb(247, 5, 5);
+    height: 50px;
+    width: 100px;
+    color: azure;
+transition: 0.5;
+border-radius: 30px;
+border: none;}
+
+
+.two:hover{
+    background-color: blue;
+    color: azure;
+    border: none;
+    height: 50px;
+    width: 100px;
+    border-radius:30px;
+}
+.three:hover{
+    border: none;
+    height: 50px;
+    width: 100px;
+    background-color: rgb(250, 237, 4);
+    color: black;
+    border-radius: 30px;
+    
+
+}
+button{
+    cursor: pointer;
+}
+
