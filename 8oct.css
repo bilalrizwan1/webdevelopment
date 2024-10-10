@@ -1,0 +1,50 @@
+body{
+    font-family:Roboto; 
+    background-color: rgb(122, 172, 173);
+    height: 100vh;
+    color: rgb(245, 245, 245);
+    justify-content: center;
+align-items:center;
+}
+.card{
+    background-color: aliceblue;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 0px;
+    overflow: hidden;
+    width:400px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background-color: rgb(10, 40, 207);
+   padding-right: 150px;
+   
+
+
+}
+.navbar li{
+    list-style-type: none;
+
+}
+nav.nav{
+    margin:0%
+}
+.navbar a{
+    text-decoration:none ;
+    color: aqua;
+    font-weight: 300px;
+    font-size: 15px;
+}
+.navbar p{
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    font-weight: 600;
+    font-size: 20px;
+}
