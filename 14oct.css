@@ -1,2 +1,58 @@
-hahahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
-lol beta
+body{
+    display: flex;
+    background-color: rgb(9, 58, 97);
+    margin: 0;
+    height: 100vh;
+    color: #ffffff;
+    cursor:-webkit-grabbing ;
+    justify-content: center;
+align-items: center;
+}
+h1{
+    text-align: center;
+}
+.forecast-container{
+background-color:rgb(9, 58, 97);
+border-radius: 10px;
+padding: 20px;
+width: 300px;
+
+
+}
+.one{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border: 3px solid rgb(9, 58, 97);
+    background-color: #2ec1d4;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius:10px; 
+    border-bottom-left-radius:10px; 
+}
+.sun div {
+    background-color: yellow;
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    margin-right: 20px;
+    
+}
+.moon{
+    background-color: rgb(223, 212, 212);
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    margin-right: 20px;
+    
+}
+.day{
+flex: 1;
+margin-left: 7px;
+}
+.temp{
+    margin-right: 7px;
+}
+
+
